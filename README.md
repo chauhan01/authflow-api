@@ -4,7 +4,7 @@ First user registers using the name email and password.
 
 Then a confirmation email is sent to the email address provided by the user during registration.
 
-Once user clicks the "verify email" link in the email, he/she will be redirected to the website with the confirmation message.
+Once user clicks the "verify email" link in the email, he/she will be redirected to the confirmation page.
 
 After this user can login using the email and password.
 
